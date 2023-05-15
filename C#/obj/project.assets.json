@@ -8,19 +8,19 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Buterbrod\\.nuget\\packages\\": {}
+    "C:\\Users\\setInterval\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Buterbrod\\Desktop\\C++\\semestr_2\\Новая папка\\C#\\C#.csproj",
+      "projectUniqueName": "C:\\Users\\setInterval\\Desktop\\C++\\semestr_2\\Новая папка\\C#\\C#.csproj",
       "projectName": "C#",
-      "projectPath": "C:\\Users\\Buterbrod\\Desktop\\C++\\semestr_2\\Новая папка\\C#\\C#.csproj",
-      "packagesPath": "C:\\Users\\Buterbrod\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Buterbrod\\Desktop\\C++\\semestr_2\\Новая папка\\C#\\obj\\",
+      "projectPath": "C:\\Users\\setInterval\\Desktop\\C++\\semestr_2\\Новая папка\\C#\\C#.csproj",
+      "packagesPath": "C:\\Users\\setInterval\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\setInterval\\Desktop\\C++\\semestr_2\\Новая папка\\C#\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Buterbrod\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\setInterval\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
